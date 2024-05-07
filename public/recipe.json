@@ -1,7 +1,7 @@
 {
   "recipes": [
     {
-      "title": "Delicious Chocolate Cake",
+      "title": "Chocolate Cake",
       "description": "A rich and moist chocolate cake that is perfect for any occasion.",
       "ingredients": [
         "2 cups all-purpose flour",
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "title": "Classic Lasagna",
+      "title": "Lasagna",
       "description": "A timeless Italian dish featuring layers of pasta, sauce, and cheese.",
       "ingredients": [
         "1 pound ground beef",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "title": "Homemade Pizza",
+      "title": "Pizza",
       "description": "Create your own pizza masterpiece with this easy-to-follow recipe.",
       "ingredients": [
         "1 (.25 ounce) package active dry yeast",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "title": "Creamy Chicken Alfredo",
+      "title": "Chicken Alfredo",
       "description": "Indulge in this rich and creamy pasta dish, featuring tender chicken and a velvety Alfredo sauce.",
       "ingredients": [
         "1 pound fettuccine pasta",
